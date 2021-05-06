@@ -1,3 +1,3 @@
-Este projeto foi criado para gerar um simples modelo de Curriculo Vitae.
+Este projeto foi criado para gerar um simples modelo de Curriculum Vitae.
 
-Foi desenvolvimento usado somente HTML e CSS.
+Foi desenvolvimento usado apenas HTML e CSS.
