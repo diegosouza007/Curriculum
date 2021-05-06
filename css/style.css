@@ -1,0 +1,35 @@
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+#name {
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+}
+
+#image {
+    border: black;
+    border-color: black;
+    border-style: solid;
+    width: 163px;
+}
+
+#container {
+    margin: 5px;
+    padding: 1px;
+    width: auto;
+}
+
+figcaption {
+    display: none;
+}
+
+#personal-data {
+    font-family: 'Roboto', sans-serif;
+}
+
+.sections {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
