@@ -7,29 +7,38 @@ p {
     font-size: 48px;
 }
 
+#personal-data {
+    font-family: 'Roboto', sans-serif;
+}
+
 #image {
     border: black;
     border-color: black;
     border-style: solid;
-    width: 163px;
+    width: 150px;
+    margin-left: 700px;
+    margin-top: -200px;
 }
 
 #container {
     margin: 5px;
     padding: 1px;
     width: auto;
+    margin-left: auto;
+    display: inline-block;
 }
 
 figcaption {
     display: none;
 }
 
-#personal-data {
-    font-family: 'Roboto', sans-serif;
-}
-
 .sections {
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
+}
+
+hr {
+    width: 850px;
+    margin-left: 1px;
 }
