@@ -41,4 +41,17 @@ figcaption {
 hr {
     width: 850px;
     margin-left: 1px;
+    margin-top: 2px;
+}
+
+#experience {
+    line-height: 0.5;
+}
+
+.marker {
+    list-style: none;
+}
+
+#skills {
+    line-height: 0.5;
 }
