@@ -42,6 +42,8 @@ hr {
     width: 850px;
     margin-left: 1px;
     margin-top: 2px;
+    background-color: lightgray;
+    height: 1px;
 }
 
 #experience {
