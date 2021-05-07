@@ -6,4 +6,4 @@ Foi desenvolvimento utilizando apenas HTML e CSS.
 
 <img src="images/preview-website.png" width="750px">
 
-Demonstração online: <a href="https://diegosouza007.github.io/Curriculum/">Curriculum Vitae</a>
+Demonstração: <a href="https://diegosouza007.github.io/Curriculum/">Curriculum Vitae</a>
